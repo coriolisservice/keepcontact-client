@@ -1,0 +1,20 @@
+{
+    "name": "coriolisservice/keepcontact-client",
+    "description": "API Client for KeepContact",
+    "type": "library",
+    "require": {
+        "nategood/httpful": "^0.2.20"
+    },
+    "authors": [
+        {
+            "name": "Maxime CAZE",
+            "email": "maximecaze@coriolis.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "KeepContact\\": "src/"
+        }
+    }
+}
