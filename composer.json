@@ -11,7 +11,6 @@
             "email": "maximecaze@coriolis.fr"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "KeepContact\\": "src/"
